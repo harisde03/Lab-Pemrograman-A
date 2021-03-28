@@ -6,7 +6,7 @@ Repo semua tugas mata kuliah Pemrograman A.
 
 ## Pertemuan 2
 - **bola.c** : Program menghitung luas bola. 
-- **itemsegitiga.c** : (POSTEST!) Program menghitung luas segitiga.
+- **segitiga.c** : Program menghitung luas segitiga.
 
 ## Pertemuan 3
 - **refresh-59-HarisDaffa.c** : Program memberikan input sebuah kalimat.
