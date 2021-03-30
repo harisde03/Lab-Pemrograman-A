@@ -2,25 +2,25 @@
 
 int main() {
     char nama[50];
-    char *ptr;
+    char *pointer;
     char ubah, jadi;
 
     printf("Masukkan Nama: ");
     scanf("%[^\n]", nama);
 
-    ptr = nama;
+    pointer = nama;
 
-    printf("Huruf Yang ingin Diubah: ");
+    printf("Huruf Yang Ingin Diubah  : ");
     scanf(" %c", &ubah);
 
-    printf("Huruf Diubah Menjadi: ");
+    printf("Huruf Akan Diubah Menjadi: ");
     scanf(" %c", &jadi);
 
-    while (*ptr++ != '\0') {
-        if (*ptr == ubah) *ptr = jadi;
-    }
+    do {
+        if (*pointer == ubah) *pointer = jadi;
+    } while (*pointer++ != '\0');
 
     printf("Nama Yang Diubah: %s\n", nama);
-    
+
     return 0;
 }
