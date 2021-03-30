@@ -21,4 +21,6 @@ int main() {
     }
 
     printf("Nama Yang Diubah: %s\n", nama);
+    
+    return 0;
 }
