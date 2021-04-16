@@ -13,7 +13,7 @@ int main() {
    for (int i = 0; i < panjang; i++) {
        for (int j = 0; j < lebar; j++) {
            printf("%c ", huruf++);
-           if (huruf == 'z') huruf = 'a';
+           if (huruf > 'z') huruf = 'a';
        }
        printf("\n");
    }
