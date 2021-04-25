@@ -25,3 +25,6 @@ Repository semua tugas laboratorium mata kuliah Pemrograman A.
 - **part2-59-HarisDaffa.c**: Program konversi suhu dengan penerapan casting dan konstanta.
 - **part3-59-HarisDaffa.c**: Program game penerapan kontrol percabangan.
 - **part4-59-HarisDaffa.c**: Program membuat bendera dengan perulangan.
+
+### tugas-2
+- **tugas2-59-HarisDaffa.c**: Program belanja dengan penerapan typedef struct dan functions.
