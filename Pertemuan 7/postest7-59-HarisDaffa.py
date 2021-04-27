@@ -13,6 +13,8 @@ for i in range(batas_bawah, batas_atas + 1):
     for j in range(1, i+1):
         if i % j == 0:
             prima += 1
+        if prima > 2:
+            break
 
     if prima == 2:
         print(i)
