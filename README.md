@@ -18,6 +18,10 @@ Repository semua tugas laboratorium mata kuliah Pemrograman A.
 ### Pertemuan 4
 - **balik-string.c** : Program membalik penulisan input.
 - **postest4-59-HarisDaffa.c** : (POSTEST!) Program mengganti semua karakter pada input.
+
+### Pertemuan 7
+- **postest7-59-HarisDaffa.py** : (POSTEST!) Program mencetak bilangan prima dalam range tertentu.
+
 ## Tugas
 
 ### tugas-1
@@ -27,4 +31,4 @@ Repository semua tugas laboratorium mata kuliah Pemrograman A.
 - **part4-59-HarisDaffa.c**: Program membuat bendera dengan perulangan.
 
 ### tugas-2
-- **tugas2-59-HarisDaffa.c**: Program belanja dengan penerapan typedef struct dan functions.
+- **Tugas2-59-HarisDaffa.c**: Program belanja dengan penerapan typedef struct dan functions.
